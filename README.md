@@ -15,4 +15,5 @@ Can see if data is missing, etc.
 Hover text gives the name of the file, used to manually add session tag.
 You can modify this to show multiple subjects (can also launch multiple browsers for this), link click events to other operations (such as adding tag), etc.
 <p>
+
 ![alt text](./images/example.png)
