@@ -1,7 +1,7 @@
 # Data Timeline Dashboard
 Generate timeline for data files
 
-## Why?
+## Problem
 Client had different types of data across multiple subjects. 
 What I had were subject IDs, types of data, and timestamps. 
 (Actually timestamps were buried in files, with different formats. Had to write code, not here, to extract these into a table.)
